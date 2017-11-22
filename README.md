@@ -1,2 +1,1 @@
-# peters-playhouse.github.io
-# peters-playhouse.github.io
+# [peters-playhouse.github.io](http://peters-playhouse.net)
